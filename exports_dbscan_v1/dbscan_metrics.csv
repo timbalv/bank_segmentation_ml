@@ -1,0 +1,10 @@
+﻿Metrika,Érték,Megjegyzés
+Optimális Epsilon (ε),0.1382,95. percentilis (k-distance)
+MinPts,4,2 × dimenziószám
+Klaszterek száma,36,Noise nélkül
+Core pontok,44758,99.0%
+Noise pontok,366,✓ Megfelelő
+Noise arány (%),0.81,Cél: ≤15%
+Silhouette Score,0.4334,Magasabb = jobb (noise nélkül)
+Davies-Bouldin Index,0.4758,Alacsonyabb = jobb
+Calinski-Harabasz Index,121.70,Magasabb = jobb

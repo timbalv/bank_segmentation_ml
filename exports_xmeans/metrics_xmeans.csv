@@ -1,0 +1,5 @@
+﻿Metrika,Érték,Értelmezés
+Optimális k,8.0,Klaszterek száma
+Silhouette Score,0.379299958317824,Magasabb = jobb (max: 1)
+Davies-Bouldin Index,0.8094674224754228,Alacsonyabb = jobb
+Calinski-Harabasz Index,42175.37144823969,Magasabb = jobb
