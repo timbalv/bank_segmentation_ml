@@ -1,0 +1,5 @@
+﻿Metrika,Érték,Megjegyzés
+Optimális k,2.0,Legmagasabb Silhouette alapján
+Silhouette Score,0.490811023222122,Magasabb = jobb
+Davies-Bouldin Index,0.9727842798746159,Alacsonyabb = jobb
+Calinski-Harabasz Index,22250.41930972231,Magasabb = jobb
