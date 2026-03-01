@@ -1,5 +1,5 @@
 ﻿Metrika,Érték,Megjegyzés
 Optimális k,3.0,Legalacsonyabb Davies-Bouldin arány és legmagasabb Calinski-Harabasz pontszám alapján
-Silhouette Score,0.4809765371439092,Magasabb = jobb
-Davies-Bouldin Index,0.7316415359469245,Alacsonyabb = jobb
-Calinski-Harabasz Index,42987.58643930952,Magasabb = jobb
+Silhouette Score,0.4280283985562529,Magasabb = jobb
+Davies-Bouldin Index,0.7951726368595159,Alacsonyabb = jobb
+Calinski-Harabasz Index,3536.4347612932693,Magasabb = jobb
