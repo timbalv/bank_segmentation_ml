@@ -1,0 +1,6 @@
+﻿,age,age,balance,balance,day,day,duration,duration,campaign,campaign,pdays,pdays,previous,previous
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+cluster,,,,,,,,,,,,,,
+0,40.94,10.6,1347.71,3037.95,15.55,8.28,187.31,114.32,2.22,1.46,42.2,102.34,0.6,2.37
+1,40.93,11.17,1511.45,3084.01,15.64,8.09,807.09,342.47,2.31,1.64,38.15,95.8,0.58,1.99
+2,40.85,9.57,1252.77,3055.58,20.45,8.26,145.91,167.75,13.05,6.34,11.44,60.16,0.25,1.79
